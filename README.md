@@ -1,5 +1,5 @@
 # jman-women-in-data-hackathon-2024
-Code base supporting analytics carried out as part of the 2024 Women in Data® 2024 hackathon
+Code base supporting analytics carried out as part of the 2024 Women in Data® hackathon
 
 Find out more about the event [here](https://womenindata.swoogo.com/registration/Events) or more about the wonderful organisation of Women in Data® [here](https://womenindata.swoogo.com/registration/2600396)
 
